@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 | QQ                                     | 微信                                           | CSDN |
 | -------------------------------------- | ---------------------------------------------- | ---- |
-| ![QQ-QRCode](image\README\QQ-QRCode.png) | ![WeChat-QRCode](image\README\WeChat-QRCode.png) |      |
+| ![QQ-QRCode](image/README/QQ-QRCode.png) | ![WeChat-QRCode](image/README/WeChat-QRCode.png) |      |
 
 ### ✊技术栈
 
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 | 右键新页面打开显示大图                 |                                                |                                                |
 | -------------------------------------- | ---------------------------------------------- | ---------------------------------------------- |
 | 概览                                   | 三维                                           | UGUI                                           |
-| ![bigscreen](image\README\bigscreen.png) | ![1707902493877](image\README\1707902493877.png) | ![1707902538975](image\README\1707902538975.png) |
+| ![bigscreen](image/README/bigscreen.png) | ![1707902493877](image/README/1707902493877.png) | ![1707902538975](image/README/1707902538975.png) |
 
 使用Unity引擎完全本人全栈开发
 
@@ -76,6 +76,6 @@ Here are some ideas to get you started:
 ## 🧠第二大脑
 
 - Obsidian
-  使用Obsidian（本地部署的markdown文本编辑器，与Notion、思源笔记类似）管理笔记的关系和结构。![1707900355809](image\README\1707900355809.png)
+  使用Obsidian（本地部署的markdown文本编辑器，与Notion、思源笔记类似）管理笔记的关系和结构。![1707900355809](image/README/1707900355809.png)
 
 ## 有趣的灵魂
