@@ -14,14 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-### 😅算是做了个简历吧...
+## 算是做了个简历吧...
 -->
 
-## 🕵️‍♂️ 简介
+## 🕵️‍ 简介
 
-嗨，你好，我是@**赛博吟游鸽子**。2000年6月出生的00后
-热爱代码、喜欢读书、使用第九艺术逃避现实的同时拥抱现实。
-正在试图让世界变得更美好，通过构建优雅的层次结构，实现最大的代码复用性和可扩展性。
+嗨，你好，我是[@赛博吟游鸽子](https://newztx.github.io/)。2000年6月出生的00后
+
+热爱代码、喜欢读书、使用第九艺术逃避现实的同时拥抱现实
+
+希望不再只是一颗默默无闻的齿轮，而是多多少少推动社会发展实现个人价值
+
+正在学习计算机科学，通过构建优雅的代码层次结构，实现最大化的代码复用性和可扩展性
 
 ## 🔔 联系我
 
@@ -29,40 +33,38 @@ Here are some ideas to get you started:
 | -------------------------------------- | ---------------------------------------------- | ---- | ---- |
 | ![QQ-QRCode](image/README/QQ-QRCode.png) | ![WeChat-QRCode](image/README/WeChat-QRCode.png) |      |      |
 
-### ✊ 技术栈
+## ✊ 技术栈
 
-有所涉猎，不敢说精通。
+打勾代表已有所了解，但不敢说精通🤓。
 
-- 🎆Git
-  - 能够使用 GitBash、GitHubDesktop 等git软件实现协作开发
 - 🎮unity应用程序开发
-  - C#
-  - unity引擎
-  - 插件开发(编辑器拓展、策划配置工具等)
+  - [X] C#(Unity MonoBehaviour API)
+  - [X] unity引擎(图集、动画、URP和HDRP渲染、NavigationAI系统)
+  - [ ] 插件开发(编辑器拓展、策划配置工具)
 - ⚙C#工控上位机
-  - 《Visual C#从入门到精通》
-  - WPF窗体应用程序
-  - TCP/IP、UDP、MODBUS通信协议
-  - 数据库技术：SQL、MySql
-  - 《数据结构、算法与应用——C++语言描述》
+  - [X] 《Visual C#从入门到精通》
+  - [ ] WPF窗体应用程序
+  - [ ] TCP/IP、UDP、MODBUS通信协议
+  - [X] 数据库技术：SQL、MySql
+  - [X] 《数据结构、算法与应用——C++语言描述》
 - 🐍Python
-  - 爬虫
-  - PyQt窗体开发
-  - 机器学习
-    - 机器视觉
+  - [X] 爬虫
+  - [ ] PyQt窗体开发
+  - [ ] 机器学习
+    - [X] Numpy、OpenCV、PIL机器视觉
 
 ## ⛳ 项目经验
 
-### 一、工务数字孪生
+### 一、工务数字孪生项目
 
 | 右键新页面打开显示大图                 |                                                |                                                |
 | -------------------------------------- | ---------------------------------------------- | ---------------------------------------------- |
 | 概览                                   | 三维                                           | UGUI                                           |
 | ![bigscreen](image/README/bigscreen.png) | ![1707902493877](image/README/1707902493877.png) | ![1707902538975](image/README/1707902538975.png) |
 
-- 使用Unity引擎完全本人**全栈**开发，为满足公司数字化建设要求自学相关技术制作
-- [XCharts](https://xcharts-team.github.io/)开源插件实现数据图表显示
-- 实时（时钟逻辑或手动强制刷新）显示数据库数据、或直接显示现场传感器数据、或本地excl、csv、json、xml格式数据
+- 使用[Unity引擎](https://unity.com/)完全本人**全栈**开发
+- 使用[XChart](https://xcharts-team.github.io/)开源插件实现数据显示部分
+- 实时显示数据库数据、或直接显示现场传感器数据、或本地excl、csv、json、xml格式数据
 
 ### 二、
 
@@ -78,7 +80,5 @@ Here are some ideas to get you started:
 
 ## 🧠第二大脑
 
-- [Obsidian](https://forum-zh.obsidian.md/)
+- Obsidian
   使用Obsidian（本地部署的markdown文本编辑器，与Notion、思源笔记类似）管理笔记的关系和结构。![1707900355809](image/README/1707900355809.png)
-
-## 有趣的灵魂
