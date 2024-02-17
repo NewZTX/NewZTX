@@ -47,7 +47,7 @@ Here are some ideas to get you started:
   - [X] C#(Unity MonoBehaviour API)
   - [X] unity引擎(图集、动画、URP和HDRP渲染、NavigationAI系统)
   - [ ] 插件开发(编辑器拓展、策划配置工具)
-- ⚙C#工控上位机
+- 🔩C#工控上位机
   - [X] 《Visual C#从入门到精通》
   - [ ] WPF窗体应用程序
   - [ ] TCP/IP、UDP、MODBUS通信协议
@@ -78,9 +78,9 @@ Here are some ideas to get you started:
 
 ### 二、C# WPF程序
 
-|                     |                             |                                 |
+|                     |            主界面                 |                                 |
 | ------------------- | --------------------------- | ------------------------------- |
-| ![这里应该有几张图片]()<br>![但是我的工程文件找不到了]()<br>![而且我不想再从头开始再做一个]()<br>![总之也是可视化大屏项目]()<br>![大概长这样→]() |![WPF可视化大屏项目](image/README/BigScreenDemo.png)  |  |
+| ![这里应该有几张图片]()<br>![但是工程文件丢了]()<br>![而且从头开始再做一个太麻烦]()<br>![总之也是可视化大屏项目]()<br>![大概长这样→]() |![WPF可视化大屏项目](image/README/BigScreenDemo.png)  |  |
 
 ---
 
