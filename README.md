@@ -107,15 +107,4 @@ Here are some ideas to get you started:
 
 ## 🎯击石乃有火，不击元无烟。
 
-```mermaid
----
-tittle:驱动模型
----
-flowchart LR;
-A[动机（驱动力，目标，毅力）];
-B[行动（痛苦，心流）];
-C[奖励（成果，成就感）];
-A==>触发==>B
-B==>结果==>C
-C==反馈（正反馈增强，负反馈削弱）==>A;
-```
+![结果驱动](image/README/结果驱动.png)
