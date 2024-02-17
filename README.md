@@ -82,3 +82,11 @@ Here are some ideas to get you started:
 
 - Obsidian
   使用Obsidian（本地部署的markdown文本编辑器，与Notion、思源笔记类似）管理笔记的关系和结构。![1707900355809](image/README/1707900355809.png)
+
+```mermaid
+flowchart LR
+    A[动机（驱动力，目标，毅力）]
+    B[行动（痛苦，心流）]
+    C[奖励（成果，成就感）]
+    A==触发==>B==结果==>C==反馈（正反馈增强，负反馈削弱）==>A
+```
