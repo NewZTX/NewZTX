@@ -1,10 +1,16 @@
-## 🕵️‍ About
+## 🕵️‍
 
-🐵 通过构建优雅的代码层次结构，实现最大化的代码复用性和可扩展性
+🐵Oath： By building an elegant code hierarchy, achieve maximum code reusability and scalability
 
-## 🔔 Contact Me
+Unity Developer, Not Just Monobehaviour, shader, web, SQL, and so on
 
-| QQ                               | 微信                                     | Blog                                 |
-| -------------------------------- | ---------------------------------------- | ------------------------------------ |
-| ![QQ-QRCode](README/QQ-QRCode.png) | ![WeChat-QRCode](README/WeChat-QRCode.png) |                                      |
-| 487825474                        | wx18298023152                            | [Blog](https://newztx.github.io/about/) |
+.Net C# | ASP.Net | WPF | WinForm
+
+Python QT-GUI office-automation, data analysis
+
+## 🔔
+
+|                                                                                                               | QQ                               | WeChat                                   | Blog                                 |
+| ------------------------------------------------------------------------------------------------------------- | -------------------------------- | ---------------------------------------- | ------------------------------------ |
+| If you don't want to scan unfamiliar QR codes<br />and contact me through social media,<br />you can email me | ![QQ-QRCode](README/QQ-QRCode.png) | ![WeChat-QRCode](README/WeChat-QRCode.png) |                                      |
+| Sngrydov3@gmail.com                                                                                           |                                  |                                          | [Blog](https://newztx.github.io/about/) |
