@@ -1,16 +1,30 @@
-## 🕵️‍
+## 🕵️ 
 
-🐵Oath： By building an elegant code hierarchy, achieve maximum code reusability and scalability
+Committed to building elegant code architectures that maximize reusability and scalability.
 
-Unity Developer, Not Just Monobehaviour, shader, web, SQL, and so on
+## 🧑‍💻 Technical Skills
 
-.Net C# | ASP.Net | WPF | WinForm
+### 🎮 Game Development
+- Unity Engine (C#), Shader Programming, Networking (UDP for In-Game Servers, TCP for Backend Services), Databases (MySQL, SQLite)
+- Extensive experience in developing games and applications using Unity Engine
 
-Python QT-GUI office-automation, data analysis
+### 💻 Desktop Development
+- .NET Framework, C#, Windows Presentation Foundation (WPF)
+- Specialized in developing efficient desktop applications to streamline workflows
 
-## 🔔
+### 🐍 Python Development
+- Python, Qt GUI Framework, Office Automation, Data Analysis
+- Expertise in implementing automation solutions and data analytics pipelines
 
-|                                                                                                               | QQ                               | WeChat                                   | Blog                                 |
-| ------------------------------------------------------------------------------------------------------------- | -------------------------------- | ---------------------------------------- | ------------------------------------ |
-| If you don't want to scan unfamiliar QR codes<br />and contact me through social media,<br />you can email me | ![QQ-QRCode](README/QQ-QRCode.png) | ![WeChat-QRCode](README/WeChat-QRCode.png) |                                      |
-| Sngrydov3@gmail.com                                                                                           |                                  |                                          | [Blog](https://newztx.github.io/about/) |
+### 🤖 AI/ML Engineering
+- Development Environment Setup, Local Model Deployment
+- Experience in UI Implementation and Model Parameter Optimization
+- Proficient in fine-tuning and deploying AI models locally
+
+## 🔔 Contact Information
+
+- Mail:Sngrydov3@gmail.com
+- [Blog](https://newztx.github.io/about/)
+- Social:
+  - <img src="README/QQ-QRCode.png" width="200">
+  - <img src="README/WeChat-QRCode.png" width="200">
